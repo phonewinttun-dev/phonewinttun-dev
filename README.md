@@ -24,13 +24,12 @@ I’m a beginner-level software developer studying computer science while balanc
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=phonewinttun-dev&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonewinttun-dev&layout=compact&theme=dark)
 
+---
 
 ## ✉️ Get in touch
-- GitHub: [phonewinttun-dev](https://github.com/phonewinttun-dev)
-- Email: [Email](phonewinttun173@gmail.com)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/phone-wint-tun-1985b93a4)
-
-
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/phonewinttun-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:phonewinttun173@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phone-wint-tun-1985b93a4)
 
 ---
 
