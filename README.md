@@ -27,8 +27,8 @@ I’m a beginner-level software developer studying computer science while balanc
 
 ## ✉️ Get in touch
 - GitHub: [phonewinttun-dev](https://github.com/phonewinttun-dev)
-- Email: phonewinttun173@gmail.com
-- LinkedIn: (www.linkedin.com/in/phone-wint-tun-1985b93a4)
+- Email: [Email](phonewinttun173@gmail.com)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/phone-wint-tun-1985b93a4)
 
 
 
