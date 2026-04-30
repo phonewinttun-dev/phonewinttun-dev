@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Phone Wint Tun
 
-<!--
-**phonewinttun-dev/phonewinttun-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner-level software developer studying computer science while balancing work and university. My main focus is backend development, where I’m building strong foundations in C#.NET and database design using PostgreSQL, MySQL, and MSSQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently
+- Software engineering student building backend projects with C#.NET.
+- Studying database design, query optimization, and backend architecture.
+
+## 💡 About me
+- Role: Software engineering student
+- Focus: Backend development, server-side logic, and relational database design
+
+## 🛠️ Top skills
+- C#.NET
+- MySQL
+- PostgreSQL
+- Git
+- Docker
+
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=phonewinttun-dev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonewinttun-dev&layout=compact&theme=dark)
+
+
+## ✉️ Get in touch
+- GitHub: [phonewinttun-dev](https://github.com/phonewinttun-dev)
+- Email: phonewinttun173@gmail.com
+- LinkedIn: (www.linkedin.com/in/phone-wint-tun-1985b93a4)
+
+
+
+---
+
+Thanks for visiting — I’m learning, building, and open to collaboration and feedback!
