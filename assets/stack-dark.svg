@@ -1,18 +1,90 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 270" width="1000" height="270" role="img" aria-label="Tech Stack and Architectural Tooling">
-  <rect x="0.5" y="0.5" width="999" height="269" rx="14" fill="#0d1117" stroke="#30363d"/>
-  <path d="M0.5 42V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V42Z" fill="#161b22" stroke="#30363d"/>
-  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="21" r="6" fill="#27c93f"/>
-  <text x="500" y="26" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12.5" fill="#8b949e">~/phonewinttun/TechStack.config</text>
-  <text x="26" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#58a6ff">Backend &amp; APIs</text>
-<text x="180" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e6edf3">C# • .NET 8/10 • ASP.NET Core • Java / Spring Boot • SignalR • EF Core</text>
-<text x="26" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#58a6ff">Frontend &amp; Mobile</text>
-<text x="180" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e6edf3">React • Next.js • Blazor WebAssembly • Flutter • Dart • TypeScript</text>
-<text x="26" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#58a6ff">Databases</text>
-<text x="180" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e6edf3">PostgreSQL • MySQL • SQLite • Microsoft SQL Server • Supabase</text>
-<text x="26" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#58a6ff">Architecture</text>
-<text x="180" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e6edf3">Feature-Driven Architecture • Vertical Slices • Result&lt;T&gt; Pattern • RESTful APIs</text>
-<text x="26" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#58a6ff">DevOps &amp; Tooling</text>
-<text x="180" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#e6edf3">Docker • Git • Postman • Linux • Render • Cloudflare</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 385" width="1000" height="385" role="img" aria-label="TechStack.cs - Architecture, Technologies, and Tooling">
+  <defs>
+    <style>
+      .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 13.5px; }
+      .dim { fill: #808080; }
+      .kw { fill: #cc7832; font-weight: 600; }
+      .ty { fill: #6897bb; font-weight: 600; }
+      .prop { fill: #9876aa; }
+      .str { fill: #6a8759; }
+      .punc { fill: #a9b7c6; }
+      .ln { fill: #606366; text-anchor: end; font-size: 12px; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0.5" y="0.5" width="999" height="384" rx="14" fill="#2b2b2b" stroke="#3c3f41"/>
+
+  <!-- IDE Tab Bar -->
+  <path d="M0.5 40V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V40Z" fill="#313335" stroke="#3c3f41"/>
+  <line x1="0" y1="40" x2="1000" y2="40" stroke="#3c3f41" stroke-width="1"/>
+
+  <!-- Active Tab: TechStack.cs -->
+  <path d="M16 8 H200 V40 H16 Z" fill="#2b2b2b"/>
+  <line x1="16" y1="8" x2="16" y2="40" stroke="#3c3f41"/>
+  <line x1="200" y1="8" x2="200" y2="40" stroke="#3c3f41"/>
+  <line x1="16" y1="39.5" x2="200" y2="39.5" stroke="#3592c4" stroke-width="2.5"/>
+
+  <!-- C# Logo in Tab -->
+  <rect x="28" y="16" width="16" height="16" rx="3.5" fill="#cc7832"/>
+  <text x="36" y="28" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="900" fill="#2b2b2b">C#</text>
+  
+  <!-- Tab Title & Close Button -->
+  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#dfdfdf">TechStack.cs</text>
+  <text x="185" y="26" font-family="sans-serif" font-size="13" fill="#808080">×</text>
+
+  <!-- Right Side IDE Controls (─ □ ✕) -->
+  <g transform="translate(920, 16)" stroke="#808080" stroke-width="1.2" fill="none">
+    <line x1="0" y1="7" x2="10" y2="7"/>
+    <rect x="22" y="1" width="9" height="9" rx="1"/>
+    <path d="M44 2 L52 10 M52 2 L44 10"/>
+  </g>
+
+  <!-- Breadcrumb -->
+  <text x="28" y="60" class="mono dim" font-size="11.5">src &gt; Architecture &gt; TechStack.cs</text>
+  <line x1="28" y1="72" x2="972" y2="72" stroke="#3c3f41" stroke-width="0.75" stroke-dasharray="4,4"/>
+
+  <!-- Line Numbers & Code Area -->
+  <g transform="translate(28, 98)" class="mono">
+    <g class="ln">
+      <text x="20" y="0">1</text>
+      <text x="20" y="24">2</text>
+      <text x="20" y="48">3</text>
+      <text x="20" y="72">4</text>
+      <text x="20" y="96">5</text>
+      <text x="20" y="120">6</text>
+      <text x="20" y="144">7</text>
+      <text x="20" y="168">8</text>
+      <text x="20" y="192">9</text>
+      <text x="20" y="216">10</text>
+      <text x="20" y="240">11</text>
+      <text x="20" y="264">12</text>
+    </g>
+
+    <line x1="32" y1="-14" x2="32" y2="276" stroke="#3c3f41" stroke-width="1"/>
+
+    <g transform="translate(40, 0)">
+      <text x="0" y="0"><tspan class="kw">namespace</tspan> <tspan class="punc">UCSY.Architecture;</tspan></text>
+      <text x="0" y="24"><tspan class="kw">public static class</tspan> <tspan class="ty">TechStack</tspan></text>
+      <text x="0" y="48"><tspan class="punc">{</tspan></text>
+      
+      <!-- Backend & APIs (Verified by user) -->
+      <text x="24" y="72"><tspan class="kw">public static readonly string</tspan><tspan class="punc">[]</tspan> <tspan class="prop">BackendAndApis</tspan> <tspan class="punc">=&gt; [</tspan></text>
+      <text x="48" y="96"><tspan class="str">"C#"</tspan><tspan class="punc">, </tspan><tspan class="str">".NET 8/10"</tspan><tspan class="punc">, </tspan><tspan class="str">"ASP.NET Core"</tspan><tspan class="punc">, </tspan><tspan class="str">"EF Core"</tspan><tspan class="punc">, </tspan><tspan class="str">"Dapper"</tspan><tspan class="punc">, </tspan></text>
+      <text x="48" y="120"><tspan class="str">"Java / Spring Boot"</tspan><tspan class="punc">, </tspan><tspan class="str">"Python"</tspan><tspan class="punc">, </tspan><tspan class="str">"FastAPI"</tspan><tspan class="punc"> ];</tspan></text>
+
+      <!-- Databases (Verified by user) -->
+      <text x="24" y="148"><tspan class="kw">public static readonly string</tspan><tspan class="punc">[]</tspan> <tspan class="prop">Databases</tspan> <tspan class="punc">=&gt; [</tspan></text>
+      <text x="48" y="172"><tspan class="str">"MSSQL"</tspan><tspan class="punc">, </tspan><tspan class="str">"PostgreSQL"</tspan><tspan class="punc">, </tspan><tspan class="str">"MySQL"</tspan><tspan class="punc">, </tspan><tspan class="str">"SQLite"</tspan><tspan class="punc">, </tspan><tspan class="str">"Supabase"</tspan><tspan class="punc"> ];</tspan></text>
+
+      <!-- Architecture -->
+      <text x="24" y="200"><tspan class="kw">public static readonly string</tspan><tspan class="punc">[]</tspan> <tspan class="prop">Architecture</tspan> <tspan class="punc">=&gt; [</tspan></text>
+      <text x="48" y="224"><tspan class="str">"Feature-Driven Architecture"</tspan><tspan class="punc">, </tspan><tspan class="str">"Vertical Slices"</tspan><tspan class="punc">, </tspan><tspan class="str">"Result&lt;T&gt; Pattern"</tspan><tspan class="punc">, </tspan><tspan class="str">"RESTful APIs"</tspan><tspan class="punc"> ];</tspan></text>
+
+      <!-- Tooling (No Linux, no Cloudflare) -->
+      <text x="24" y="252"><tspan class="kw">public static readonly string</tspan><tspan class="punc">[]</tspan> <tspan class="prop">Tooling</tspan> <tspan class="punc">=&gt; [</tspan> <tspan class="str">"Docker"</tspan><tspan class="punc">, </tspan><tspan class="str">"Git"</tspan><tspan class="punc">, </tspan><tspan class="str">"Postman"</tspan><tspan class="punc">, </tspan><tspan class="str">"Render"</tspan> <tspan class="punc">];</tspan></text>
+
+      <text x="0" y="276"><tspan class="punc">}</tspan></text>
+    </g>
+  </g>
 </svg>

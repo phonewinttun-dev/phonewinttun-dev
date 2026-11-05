@@ -32,7 +32,7 @@ I follow feature-driven architecture and pragmatic minimalism: cohesive feature 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <img alt="Tech Stack and Architectural Tooling" src="assets/stack-light.svg" width="100%">
+  <img alt="TechStack.cs - Architecture, Technologies, and Tooling" src="assets/stack-light.svg" width="100%">
 </picture>
 
 ---

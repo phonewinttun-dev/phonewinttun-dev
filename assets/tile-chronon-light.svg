@@ -1,17 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 236" width="490" height="236" role="img" aria-label="Chronon Attendance Tracker">
-  <rect x="0.5" y="0.5" width="489" height="235" rx="14" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="24" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1f2328">Chronon Attendance Tracker</text>
-  <text x="24" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#57609a">github.com/phonewinttun-dev/Chronon-Attendance-Tracker</text>
-  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">Enterprise attendance and time-tracking system featuring</text>
-<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">a Blazor WebAssembly frontend and ASP.NET Core backend.</text>
-<text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">Automated check-in reporting, domain validation, and</text>
-<text x="24" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">role-based authorization.</text>
-  <rect x="24" y="196" width="31.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="39.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">C#</text>
-<rect x="63.0" y="196" width="98.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="112.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">Blazor WASM</text>
-<rect x="169.5" y="196" width="91.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="215.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">PostgreSQL</text>
-<rect x="268.5" y="196" width="68.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="302.75" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">.NET 10</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 248" width="500" height="248" role="img" aria-label="Chronon Attendance Tracker">
+  <defs>
+    <filter id="card-shadow-light" x="-5%" y="-5%" width="112%" height="118%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <!-- Card Rectangle with elevation shadow -->
+  <rect x="8" y="6" width="484" height="232" rx="14" fill="#ffffff" stroke="#d0d7de" filter="url(#card-shadow-light)"/>
+  <text x="32" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1f2328">Chronon Attendance Tracker</text>
+  <text x="32" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#777777">github.com/phonewinttun-dev/Chronon-Attendance-Tracker</text>
+  <text x="32" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">Enterprise attendance and time-tracking system featuring</text>
+<text x="32" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">a Blazor WebAssembly frontend and ASP.NET Core backend.</text>
+<text x="32" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">Automated check-in reporting, domain validation, and</text>
+<text x="32" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">role-based authorization.</text>
+  <rect x="32" y="196" width="31.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="47.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">C#</text>
+<rect x="71.0" y="196" width="98.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="120.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">Blazor WASM</text>
+<rect x="177.5" y="196" width="91.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="223.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">PostgreSQL</text>
+<rect x="276.5" y="196" width="68.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="310.75" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">.NET 10</text>
 </svg>

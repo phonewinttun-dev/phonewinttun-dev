@@ -1,17 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 236" width="490" height="236" role="img" aria-label="YPS Store Finder">
-  <rect x="0.5" y="0.5" width="489" height="235" rx="14" fill="#0d1117" stroke="#30363d"/>
-  <text x="24" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#f0f6fc">YPS Store Finder</text>
-  <text x="24" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e">github.com/phonewinttun-dev/YPS-Store-Finder</text>
-  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">Store locator service enabling Yangon bus commuters</text>
-<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">to discover verified card service centers and top-up</text>
-<text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">retail touchpoints for Yangon Payment Services (YPS)</text>
-<text x="24" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">with fast, lightweight SQLite data persistence.</text>
-  <rect x="24" y="196" width="31.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="39.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">C#</text>
-<rect x="63.0" y="196" width="68.5" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="97.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">.NET 10</text>
-<rect x="139.5" y="196" width="61.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="170.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">SQLite</text>
-<rect x="208.5" y="196" width="76.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="246.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">REST API</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 248" width="500" height="248" role="img" aria-label="YPS Store Finder">
+  <defs>
+    <filter id="card-shadow-dark" x="-5%" y="-5%" width="112%" height="118%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <!-- Card Rectangle with elevation shadow -->
+  <rect x="8" y="6" width="484" height="232" rx="14" fill="#313335" stroke="#3c3f41" filter="url(#card-shadow-dark)"/>
+  <text x="32" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#dfdfdf">YPS Store Finder</text>
+  <text x="32" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#808080">github.com/phonewinttun-dev/YPS-Store-Finder</text>
+  <text x="32" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#808080">Store locator service enabling Yangon bus commuters</text>
+<text x="32" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#808080">to discover verified card service centers and top-up</text>
+<text x="32" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#808080">retail touchpoints for Yangon Payment Services (YPS)</text>
+<text x="32" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#808080">with fast, lightweight SQLite data persistence.</text>
+  <rect x="32" y="196" width="31.0" height="24" rx="6" fill="#2b2b2b" stroke="#3c3f41"/>
+<text x="47.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#cc7832">C#</text>
+<rect x="71.0" y="196" width="68.5" height="24" rx="6" fill="#2b2b2b" stroke="#3c3f41"/>
+<text x="105.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#cc7832">.NET 10</text>
+<rect x="147.5" y="196" width="61.0" height="24" rx="6" fill="#2b2b2b" stroke="#3c3f41"/>
+<text x="178.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#cc7832">SQLite</text>
+<rect x="216.5" y="196" width="76.0" height="24" rx="6" fill="#2b2b2b" stroke="#3c3f41"/>
+<text x="254.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#cc7832">REST API</text>
 </svg>

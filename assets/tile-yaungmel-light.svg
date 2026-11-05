@@ -1,17 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 236" width="490" height="236" role="img" aria-label="YaungMel POS">
-  <rect x="0.5" y="0.5" width="489" height="235" rx="14" fill="#ffffff" stroke="#d0d7de"/>
-  <text x="24" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1f2328">YaungMel POS</text>
-  <text x="24" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#57609a">github.com/phonewinttun-dev/YaungMel_POS</text>
-  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">Point-of-Sale solution engineered for retail shops</text>
-<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">in Myanmar. Features Next.js frontend with ASP.NET Core</text>
-<text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">backend, fast checkout workflow, inventory tracking, and</text>
-<text x="24" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#57609a">zero bloated enterprise overhead.</text>
-  <rect x="24" y="196" width="68.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="58.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">Next.js</text>
-<rect x="100.5" y="196" width="106.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="153.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">ASP.NET Core</text>
-<rect x="214.5" y="196" width="91.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="260.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">PostgreSQL</text>
-<rect x="313.5" y="196" width="91.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="359.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">TypeScript</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 248" width="500" height="248" role="img" aria-label="YaungMel POS">
+  <defs>
+    <filter id="card-shadow-light" x="-5%" y="-5%" width="112%" height="118%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <!-- Card Rectangle with elevation shadow -->
+  <rect x="8" y="6" width="484" height="232" rx="14" fill="#ffffff" stroke="#d0d7de" filter="url(#card-shadow-light)"/>
+  <text x="32" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1f2328">YaungMel POS</text>
+  <text x="32" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#777777">github.com/phonewinttun-dev/YaungMel_POS</text>
+  <text x="32" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">Point-of-Sale solution engineered for retail shops</text>
+<text x="32" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">in Myanmar. Features Next.js frontend with ASP.NET Core</text>
+<text x="32" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">backend, fast checkout workflow, inventory tracking, and</text>
+<text x="32" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#777777">zero bloated enterprise overhead.</text>
+  <rect x="32" y="196" width="68.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="66.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">Next.js</text>
+<rect x="108.5" y="196" width="106.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="161.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">ASP.NET Core</text>
+<rect x="222.5" y="196" width="91.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="268.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">PostgreSQL</text>
+<rect x="321.5" y="196" width="91.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="367.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#000080">TypeScript</text>
 </svg>
