@@ -1,11 +1,11 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="Terminal: whoami prints Phone Win Tun, Software Engineering undergraduate at UCSY" src="assets/terminal-light.svg" width="100%">
+  <img alt="Profile.cs - Phone Win Tun, Software Engineering undergraduate at UCSY" src="assets/terminal-light.svg" width="100%">
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/phone-wint-tun-dev) · [Email](mailto:phonewinttun173@gmail.com) · [GitHub](https://github.com/phonewinttun-dev)
 
-I am an undergraduate Software Engineering student at the **University of Computer Studies, Yangon (UCSY)**. I build backend systems, web APIs, and practical software focused on solving real-world civic, operational, and community problems in Myanmar.
+I am an undergraduate Software Engineering student at the **University of Computer Studies, Yangon (UCSY)**. I build backend systems, web APIs, and practical software focused on engineering reliable, community-first solutions to tackle real-world challenges in Myanmar.
 
 I follow feature-driven architecture and pragmatic minimalism: cohesive feature folders, explicit data flows, surgical refactoring, and zero unnecessary abstractions. If a problem can be solved with standard libraries or simpler design, I keep it simple.
 

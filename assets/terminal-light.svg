@@ -1,16 +1,118 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 344" width="1000" height="344" role="img" aria-label="Terminal Hero Banner">
-  <style>
-    text {
-      font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', 'Segoe UI Mono', Menlo, Consolas, monospace;
-      font-size: 15px;
-    }
-  </style>
-  <rect x="0.5" y="0.5" width="999" height="343" rx="14" fill="#ffffff" stroke="#d0d7de"/>
-  <path d="M0.5 44V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V44Z" fill="#f6f8fa" stroke="#d0d7de"/>
-  <circle cx="26" cy="22" r="6" fill="#ff5f56"/>
-  <circle cx="46" cy="22" r="6" fill="#ffbd2e"/>
-  <circle cx="66" cy="22" r="6" fill="#27c93f"/>
-  <text x="500.0" y="27" text-anchor="middle" fill="#656d76" style="font-size: 13px;">phonewinttun@ucs-yangon: ~ (zsh)</text>
-  <text x="976" y="27" text-anchor="end" fill="#8c959f" style="font-size: 12px;">2026-11-05</text>
-  <g opacity="1"><text x="28" y="82" xml:space="preserve"><tspan fill="#1a7f37">phonewinttun</tspan><tspan fill="#656d76">@</tspan><tspan fill="#0969da">ucs-yangon</tspan><tspan fill="#656d76">:</tspan><tspan fill="#8250df">~</tspan><tspan fill="#656d76">$ </tspan></text><clipPath id="clip_0"><rect x="271.0" y="63.0" height="28" width="54.0"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.01771;0.02083;0.02396;0.02708;0.03021;0.03333" values="0;9.0;18.0;27.0;36.0;45.0;54.0" /></rect></clipPath><text x="271.0" y="82" fill="#1f2328" clip-path="url(#clip_0)" xml:space="preserve">whoami</text></g><text x="28" y="110" xml:space="preserve" opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.05000" values="0;1" /><tspan fill="#1f2328" font-weight="700">Phone Win Tun</tspan><tspan fill="#1f2328">, Software Engineering Major @ </tspan><tspan fill="#1a7f37" font-weight="700">UCSY</tspan></text><g opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.09167" values="0;1" /><text x="28" y="138" xml:space="preserve"><tspan fill="#1a7f37">phonewinttun</tspan><tspan fill="#656d76">@</tspan><tspan fill="#0969da">ucs-yangon</tspan><tspan fill="#656d76">:</tspan><tspan fill="#8250df">~</tspan><tspan fill="#656d76">$ </tspan></text><clipPath id="clip_1"><rect x="271.0" y="119.0" height="28" width="108.0"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.10938;0.11250;0.11562;0.11875;0.12187;0.12500;0.12812;0.13125;0.13437;0.13750;0.14062;0.14375" values="0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0" /></rect></clipPath><text x="271.0" y="138" fill="#1f2328" clip-path="url(#clip_1)" xml:space="preserve">ls projects/</text></g><text x="28" y="166" xml:space="preserve" opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.16042" values="0;1" /><tspan fill="#1a7f37" font-weight="700">SCMS/  </tspan><tspan fill="#0969da" font-weight="700">YBS-LanPya/  </tspan><tspan fill="#0969da" font-weight="700">YPS-StoreFinder/  </tspan><tspan fill="#0969da" font-weight="700">Chronon/  </tspan><tspan fill="#0550ae" font-weight="700">YaungMel-POS/  </tspan><tspan fill="#0550ae" font-weight="700">Hsum-Chaint/</tspan></text><g opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.20208" values="0;1" /><text x="28" y="194" xml:space="preserve"><tspan fill="#1a7f37">phonewinttun</tspan><tspan fill="#656d76">@</tspan><tspan fill="#0969da">ucs-yangon</tspan><tspan fill="#656d76">:</tspan><tspan fill="#8250df">~</tspan><tspan fill="#656d76">$ </tspan></text><clipPath id="clip_2"><rect x="271.0" y="175.0" height="28" width="180.0"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.21979;0.22292;0.22604;0.22917;0.23229;0.23542;0.23854;0.24167;0.24479;0.24792;0.25104;0.25417;0.25729;0.26042;0.26354;0.26667;0.26979;0.27292;0.27604;0.27917" values="0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0" /></rect></clipPath><text x="271.0" y="194" fill="#1f2328" clip-path="url(#clip_2)" xml:space="preserve">cat architecture.txt</text></g><text x="28" y="222" xml:space="preserve" opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.29583" values="0;1" /><tspan fill="#bc4c00" font-weight="600">Feature-Driven Architecture · Pragmatic Minimalism · Zero unnecessary abstractions</tspan></text><g opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.33750" values="0;1" /><text x="28" y="250" xml:space="preserve"><tspan fill="#1a7f37">phonewinttun</tspan><tspan fill="#656d76">@</tspan><tspan fill="#0969da">ucs-yangon</tspan><tspan fill="#656d76">:</tspan><tspan fill="#8250df">~</tspan><tspan fill="#656d76">$ </tspan></text><clipPath id="clip_3"><rect x="271.0" y="231.0" height="28" width="135.0"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.35521;0.35833;0.36146;0.36458;0.36771;0.37083;0.37396;0.37708;0.38021;0.38333;0.38646;0.38958;0.39271;0.39583;0.39896" values="0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0" /></rect></clipPath><text x="271.0" y="250" fill="#1f2328" clip-path="url(#clip_3)" xml:space="preserve">cat mission.txt</text></g><text x="28" y="278" xml:space="preserve" opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.41562" values="0;1" /><tspan fill="#1f2328">Engineering civic, transit &amp; healthcare systems for real-world impact in Myanmar.</tspan></text><g opacity="1"><animate attributeName="opacity" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.45729" values="0;1" /><text x="28" y="306" xml:space="preserve"><tspan fill="#1a7f37">phonewinttun</tspan><tspan fill="#656d76">@</tspan><tspan fill="#0969da">ucs-yangon</tspan><tspan fill="#656d76">:</tspan><tspan fill="#8250df">~</tspan><tspan fill="#656d76">$ </tspan></text></g><rect x="271.0" y="294.0" width="9.0" height="18.0" fill="#1a7f37"><animate attributeName="x" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00000;0.01771;0.02083;0.02396;0.02708;0.03021;0.03333;0.09167;0.10938;0.11250;0.11562;0.11875;0.12187;0.12500;0.12812;0.13125;0.13437;0.13750;0.14062;0.14375;0.20208;0.21979;0.22292;0.22604;0.22917;0.23229;0.23542;0.23854;0.24167;0.24479;0.24792;0.25104;0.25417;0.25729;0.26042;0.26354;0.26667;0.26979;0.27292;0.27604;0.27917;0.33750;0.35521;0.35833;0.36146;0.36458;0.36771;0.37083;0.37396;0.37708;0.38021;0.38333;0.38646;0.38958;0.39271;0.39583;0.39896;0.45729" values="271.0;271.0;280.0;289.0;298.0;307.0;316.0;325.0;271.0;280.0;289.0;298.0;307.0;316.0;325.0;334.0;343.0;352.0;361.0;370.0;379.0;271.0;280.0;289.0;298.0;307.0;316.0;325.0;334.0;343.0;352.0;361.0;370.0;379.0;388.0;397.0;406.0;415.0;424.0;433.0;442.0;451.0;271.0;280.0;289.0;298.0;307.0;316.0;325.0;334.0;343.0;352.0;361.0;370.0;379.0;388.0;397.0;406.0;271.0" /><animate attributeName="y" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.00000;0.09167;0.20208;0.33750;0.45729" values="70.0;70.0;126.0;182.0;238.0;294.0" /><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.0s" repeatCount="indefinite"/></rect>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 370" width="1000" height="370" role="img" aria-label="Profile.cs - Phone Win Tun, Software Engineering undergraduate at UCSY">
+  <defs>
+    <style>
+      .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 13.5px; }
+      .dim { fill: #008000; }
+      .kw { fill: #0000ff; font-weight: 600; }
+      .ty { fill: #267f99; font-weight: 600; }
+      .prop { fill: #001080; }
+      .str { fill: #a31515; }
+      .punc { fill: #000000; }
+      .ln { fill: #6e6e6e; text-anchor: end; font-size: 12px; }
+    </style>
+    <clipPath id="c_name"><rect x="92.3" y="80" height="24" width="283.5"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03571;0.03810;0.04048;0.04286;0.04524;0.04762;0.05000;0.05238;0.05476;0.05714;0.05952;0.06190;0.06429;0.06667;0.06905;0.07143;0.07381;0.07619;0.07857;0.08095;0.08333;0.08571;0.08810;0.09048;0.09286;0.09524;0.09762;0.10000;0.10238;0.10476;0.10714;0.10952;0.11190;0.11429;0.11667" values="0.0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81.0;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162.0;170.1;178.2;186.3;194.4;202.5;210.6;218.7;226.8;234.9;243.0;251.1;259.2;267.3;275.4;283.5" /></rect></clipPath><clipPath id="c_major"><rect x="92.3" y="104" height="24" width="405.0"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.14383;0.14600;0.14817;0.15033;0.15250;0.15467;0.15683;0.15900;0.16117;0.16333;0.16550;0.16767;0.16983;0.17200;0.17417;0.17633;0.17850;0.18067;0.18283;0.18500;0.18717;0.18933;0.19150;0.19367;0.19583;0.19800;0.20017;0.20233;0.20450;0.20667;0.20883;0.21100;0.21317;0.21533;0.21750;0.21967;0.22183;0.22400;0.22617;0.22833;0.23050;0.23267;0.23483;0.23700;0.23917;0.24133;0.24350;0.24567;0.24783;0.25000" values="0.0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81.0;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162.0;170.1;178.2;186.3;194.4;202.5;210.6;218.7;226.8;234.9;243.0;251.1;259.2;267.3;275.4;283.5;291.6;299.7;307.8;315.9;324.0;332.1;340.2;348.3;356.4;364.5;372.6;380.7;388.8;396.9;405.0" /></rect></clipPath><clipPath id="c_focus"><rect x="92.3" y="128" height="24" width="388.8"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.27726;0.27951;0.28177;0.28403;0.28628;0.28854;0.29080;0.29306;0.29531;0.29757;0.29983;0.30208;0.30434;0.30660;0.30885;0.31111;0.31337;0.31562;0.31788;0.32014;0.32240;0.32465;0.32691;0.32917;0.33142;0.33368;0.33594;0.33819;0.34045;0.34271;0.34497;0.34722;0.34948;0.35174;0.35399;0.35625;0.35851;0.36076;0.36302;0.36528;0.36753;0.36979;0.37205;0.37431;0.37656;0.37882;0.38108;0.38333" values="0.0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81.0;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162.0;170.1;178.2;186.3;194.4;202.5;210.6;218.7;226.8;234.9;243.0;251.1;259.2;267.3;275.4;283.5;291.6;299.7;307.8;315.9;324.0;332.1;340.2;348.3;356.4;364.5;372.6;380.7;388.8" /></rect></clipPath><clipPath id="c_arch"><rect x="92.3" y="152" height="24" width="486.0"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.41042;0.41250;0.41458;0.41667;0.41875;0.42083;0.42292;0.42500;0.42708;0.42917;0.43125;0.43333;0.43542;0.43750;0.43958;0.44167;0.44375;0.44583;0.44792;0.45000;0.45208;0.45417;0.45625;0.45833;0.46042;0.46250;0.46458;0.46667;0.46875;0.47083;0.47292;0.47500;0.47708;0.47917;0.48125;0.48333;0.48542;0.48750;0.48958;0.49167;0.49375;0.49583;0.49792;0.50000;0.50208;0.50417;0.50625;0.50833;0.51042;0.51250;0.51458;0.51667;0.51875;0.52083;0.52292;0.52500;0.52708;0.52917;0.53125;0.53333" values="0.0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81.0;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162.0;170.1;178.2;186.3;194.4;202.5;210.6;218.7;226.8;234.9;243.0;251.1;259.2;267.3;275.4;283.5;291.6;299.7;307.8;315.9;324.0;332.1;340.2;348.3;356.4;364.5;372.6;380.7;388.8;396.9;405.0;413.1;421.2;429.3;437.4;445.5;453.6;461.7;469.8;477.9;486.0" /></rect></clipPath><clipPath id="c_miss_lbl"><rect x="92.3" y="176" height="24" width="194.4"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.56076;0.56319;0.56563;0.56806;0.57049;0.57292;0.57535;0.57778;0.58021;0.58264;0.58507;0.58750;0.58993;0.59236;0.59479;0.59722;0.59965;0.60208;0.60451;0.60694;0.60938;0.61181;0.61424;0.61667" values="0.0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81.0;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162.0;170.1;178.2;186.3;194.4" /></rect></clipPath><clipPath id="c_miss_txt"><rect x="116.6" y="200" height="24" width="753.3"><animate attributeName="width" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.62702;0.62903;0.63105;0.63306;0.63508;0.63710;0.63911;0.64113;0.64315;0.64516;0.64718;0.64919;0.65121;0.65323;0.65524;0.65726;0.65927;0.66129;0.66331;0.66532;0.66734;0.66935;0.67137;0.67339;0.67540;0.67742;0.67944;0.68145;0.68347;0.68548;0.68750;0.68952;0.69153;0.69355;0.69556;0.69758;0.69960;0.70161;0.70363;0.70565;0.70766;0.70968;0.71169;0.71371;0.71573;0.71774;0.71976;0.72177;0.72379;0.72581;0.72782;0.72984;0.73185;0.73387;0.73589;0.73790;0.73992;0.74194;0.74395;0.74597;0.74798;0.75000;0.75202;0.75403;0.75605;0.75806;0.76008;0.76210;0.76411;0.76613;0.76815;0.77016;0.77218;0.77419;0.77621;0.77823;0.78024;0.78226;0.78427;0.78629;0.78831;0.79032;0.79234;0.79435;0.79637;0.79839;0.80040;0.80242;0.80444;0.80645;0.80847;0.81048;0.81250" values="0.0;8.1;16.2;24.3;32.4;40.5;48.6;56.7;64.8;72.9;81.0;89.1;97.2;105.3;113.4;121.5;129.6;137.7;145.8;153.9;162.0;170.1;178.2;186.3;194.4;202.5;210.6;218.7;226.8;234.9;243.0;251.1;259.2;267.3;275.4;283.5;291.6;299.7;307.8;315.9;324.0;332.1;340.2;348.3;356.4;364.5;372.6;380.7;388.8;396.9;405.0;413.1;421.2;429.3;437.4;445.5;453.6;461.7;469.8;477.9;486.0;494.1;502.2;510.3;518.4;526.5;534.6;542.7;550.8;558.9;567.0;575.1;583.2;591.3;599.4;607.5;615.6;623.7;631.8;639.9;648.0;656.1;664.2;672.3;680.4;688.5;696.6;704.7;712.8;720.9;729.0;737.1;745.2;753.3" /></rect></clipPath>
+  </defs>
+
+  <!-- Background & Outer Border -->
+  <rect x="0.5" y="0.5" width="999" height="369" rx="14" fill="#ffffff" stroke="#d4d4d4"/>
+
+  <!-- IDE Tab Bar (JetBrains Rider / Visual Studio Style) -->
+  <path d="M0.5 40V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V40Z" fill="#f3f3f3" stroke="#d4d4d4"/>
+  <line x1="0" y1="40" x2="1000" y2="40" stroke="#d4d4d4" stroke-width="1"/>
+
+  <!-- Active Tab: Profile.cs -->
+  <path d="M16 8 H185 V40 H16 Z" fill="#ffffff"/>
+  <line x1="16" y1="8" x2="16" y2="40" stroke="#d4d4d4"/>
+  <line x1="185" y1="8" x2="185" y2="40" stroke="#d4d4d4"/>
+  <line x1="16" y1="39.5" x2="185" y2="39.5" stroke="#007acc" stroke-width="2.5"/>
+
+  <!-- C# Logo in Tab -->
+  <rect x="28" y="16" width="16" height="16" rx="3.5" fill="#0000ff"/>
+  <text x="36" y="28" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="900" fill="#ffffff">C#</text>
+  
+  <!-- Tab Title & Close Button -->
+  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#333333">Profile.cs</text>
+  <text x="170" y="26" font-family="sans-serif" font-size="13" fill="#008000">×</text>
+
+  <!-- Second Inactive Tab -->
+  <text x="210" y="26" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" fill="#008000">AppDbContext.cs</text>
+
+  <!-- Right Side IDE Controls (─ □ ✕) -->
+  <g transform="translate(920, 16)" stroke="#6e6e6e" stroke-width="1.2" fill="none">
+    <line x1="0" y1="7" x2="10" y2="7"/>
+    <rect x="22" y="1" width="9" height="9" rx="1"/>
+    <path d="M44 2 L52 10 M52 2 L44 10"/>
+  </g>
+
+  <!-- Breadcrumb sub-bar -->
+  <text x="28" y="60" class="mono dim" font-size="11.5">src &gt; Domain &gt; Profile.cs</text>
+  <line x1="28" y1="72" x2="972" y2="72" stroke="#d4d4d4" stroke-width="0.75" stroke-dasharray="4,4"/>
+
+  <!-- Line Numbers & Code Area -->
+  <g transform="translate(28, 98)" class="mono">
+    <!-- Line numbers -->
+    <g class="ln">
+      <text x="20" y="0">1</text>
+      <text x="20" y="24">2</text>
+      <text x="20" y="48">3</text>
+      <text x="20" y="72">4</text>
+      <text x="20" y="96">5</text>
+      <text x="20" y="120">6</text>
+      <text x="20" y="144">7</text>
+      <text x="20" y="168">8</text>
+      <text x="20" y="192">9</text>
+      <text x="20" y="216">10</text>
+      <text x="20" y="240">11</text>
+    </g>
+
+    <!-- Vertical separator line -->
+    <line x1="32" y1="-14" x2="32" y2="252" stroke="#d4d4d4" stroke-width="1"/>
+
+    <!-- Static scaffold lines -->
+    <g transform="translate(40, 0)">
+      <text x="0" y="0"><tspan class="kw">namespace</tspan> <tspan class="punc">UCSY.SoftwareEngineering;</tspan></text>
+      <text x="0" y="48"><tspan class="kw">public sealed record</tspan> <tspan class="ty">Developer</tspan></text>
+      <text x="0" y="72"><tspan class="punc">{</tspan></text>
+      
+      <!-- Line 5: Name (with typing animation clip-path) -->
+      <g clip-path="url(#c_name)">
+        <text x="24" y="96"><tspan class="kw">public string</tspan> <tspan class="prop">Name</tspan> <tspan class="punc">=&gt;</tspan> <tspan class="str">"Phone Win Tun"</tspan><tspan class="punc">;</tspan></text>
+      </g>
+
+      <!-- Line 6: Major (with typing animation clip-path) -->
+      <g clip-path="url(#c_major)">
+        <text x="24" y="120"><tspan class="kw">public string</tspan> <tspan class="prop">Major</tspan> <tspan class="punc">=&gt;</tspan> <tspan class="str">"Software Engineering @ UCSY"</tspan><tspan class="punc">;</tspan></text>
+      </g>
+
+      <!-- Line 7: Focus (with typing animation clip-path) -->
+      <g clip-path="url(#c_focus)">
+        <text x="24" y="144"><tspan class="kw">public string</tspan> <tspan class="prop">Focus</tspan> <tspan class="punc">=&gt;</tspan> <tspan class="str">"Backend Systems &amp; Web APIs"</tspan><tspan class="punc">;</tspan></text>
+      </g>
+
+      <!-- Line 8: Architecture (with typing animation clip-path) -->
+      <g clip-path="url(#c_arch)">
+        <text x="24" y="168"><tspan class="kw">public string</tspan> <tspan class="prop">Architecture</tspan> <tspan class="punc">=&gt;</tspan> <tspan class="str">"Feature-Driven · Pragmatic Minimalism"</tspan><tspan class="punc">;</tspan></text>
+      </g>
+
+      <!-- Line 9: Mission Label (with typing animation clip-path) -->
+      <g clip-path="url(#c_miss_lbl)">
+        <text x="24" y="192"><tspan class="kw">public string</tspan> <tspan class="prop">Mission</tspan> <tspan class="punc">=&gt;</tspan></text>
+      </g>
+
+      <!-- Line 10: Mission Statement (with typing animation clip-path) -->
+      <g clip-path="url(#c_miss_txt)">
+        <text x="48" y="216"><tspan class="str">"Engineering reliable, community-first solutions to tackle real-world challenges in Myanmar."</tspan><tspan class="punc">;</tspan></text>
+      </g>
+
+      <!-- Line 11: Closing brace -->
+      <text x="0" y="240"><tspan class="punc">}</tspan></text>
+    </g>
+  </g>
+
+  <!-- Blinking Typing Cursor -->
+  <rect x="869.9" y="299" width="8.5" height="16" fill="#007acc">
+    <animate attributeName="x" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03333;0.03571;0.03810;0.04048;0.04286;0.04524;0.04762;0.05000;0.05238;0.05476;0.05714;0.05952;0.06190;0.06429;0.06667;0.06905;0.07143;0.07381;0.07619;0.07857;0.08095;0.08333;0.08571;0.08810;0.09048;0.09286;0.09524;0.09762;0.10000;0.10238;0.10476;0.10714;0.10952;0.11190;0.11429;0.11667;0.14167;0.14383;0.14600;0.14817;0.15033;0.15250;0.15467;0.15683;0.15900;0.16117;0.16333;0.16550;0.16767;0.16983;0.17200;0.17417;0.17633;0.17850;0.18067;0.18283;0.18500;0.18717;0.18933;0.19150;0.19367;0.19583;0.19800;0.20017;0.20233;0.20450;0.20667;0.20883;0.21100;0.21317;0.21533;0.21750;0.21967;0.22183;0.22400;0.22617;0.22833;0.23050;0.23267;0.23483;0.23700;0.23917;0.24133;0.24350;0.24567;0.24783;0.25000;0.27500;0.27726;0.27951;0.28177;0.28403;0.28628;0.28854;0.29080;0.29306;0.29531;0.29757;0.29983;0.30208;0.30434;0.30660;0.30885;0.31111;0.31337;0.31562;0.31788;0.32014;0.32240;0.32465;0.32691;0.32917;0.33142;0.33368;0.33594;0.33819;0.34045;0.34271;0.34497;0.34722;0.34948;0.35174;0.35399;0.35625;0.35851;0.36076;0.36302;0.36528;0.36753;0.36979;0.37205;0.37431;0.37656;0.37882;0.38108;0.38333;0.40833;0.41042;0.41250;0.41458;0.41667;0.41875;0.42083;0.42292;0.42500;0.42708;0.42917;0.43125;0.43333;0.43542;0.43750;0.43958;0.44167;0.44375;0.44583;0.44792;0.45000;0.45208;0.45417;0.45625;0.45833;0.46042;0.46250;0.46458;0.46667;0.46875;0.47083;0.47292;0.47500;0.47708;0.47917;0.48125;0.48333;0.48542;0.48750;0.48958;0.49167;0.49375;0.49583;0.49792;0.50000;0.50208;0.50417;0.50625;0.50833;0.51042;0.51250;0.51458;0.51667;0.51875;0.52083;0.52292;0.52500;0.52708;0.52917;0.53125;0.53333;0.55833;0.56076;0.56319;0.56563;0.56806;0.57049;0.57292;0.57535;0.57778;0.58021;0.58264;0.58507;0.58750;0.58993;0.59236;0.59479;0.59722;0.59965;0.60208;0.60451;0.60694;0.60938;0.61181;0.61424;0.61667;0.62500;0.62702;0.62903;0.63105;0.63306;0.63508;0.63710;0.63911;0.64113;0.64315;0.64516;0.64718;0.64919;0.65121;0.65323;0.65524;0.65726;0.65927;0.66129;0.66331;0.66532;0.66734;0.66935;0.67137;0.67339;0.67540;0.67742;0.67944;0.68145;0.68347;0.68548;0.68750;0.68952;0.69153;0.69355;0.69556;0.69758;0.69960;0.70161;0.70363;0.70565;0.70766;0.70968;0.71169;0.71371;0.71573;0.71774;0.71976;0.72177;0.72379;0.72581;0.72782;0.72984;0.73185;0.73387;0.73589;0.73790;0.73992;0.74194;0.74395;0.74597;0.74798;0.75000;0.75202;0.75403;0.75605;0.75806;0.76008;0.76210;0.76411;0.76613;0.76815;0.77016;0.77218;0.77419;0.77621;0.77823;0.78024;0.78226;0.78427;0.78629;0.78831;0.79032;0.79234;0.79435;0.79637;0.79839;0.80040;0.80242;0.80444;0.80645;0.80847;0.81048;0.81250" values="92.3;92.3;100.4;108.5;116.6;124.7;132.8;140.9;149.0;157.1;165.2;173.3;181.4;189.5;197.6;205.7;213.8;221.9;230.0;238.1;246.2;254.3;262.4;270.5;278.6;286.7;294.8;302.9;311.0;319.1;327.2;335.3;343.4;351.5;359.6;367.7;375.8;92.3;100.4;108.5;116.6;124.7;132.8;140.9;149.0;157.1;165.2;173.3;181.4;189.5;197.6;205.7;213.8;221.9;230.0;238.1;246.2;254.3;262.4;270.5;278.6;286.7;294.8;302.9;311.0;319.1;327.2;335.3;343.4;351.5;359.6;367.7;375.8;383.9;392.0;400.1;408.2;416.3;424.4;432.5;440.6;448.7;456.8;464.9;473.0;481.1;489.2;497.3;92.3;100.4;108.5;116.6;124.7;132.8;140.9;149.0;157.1;165.2;173.3;181.4;189.5;197.6;205.7;213.8;221.9;230.0;238.1;246.2;254.3;262.4;270.5;278.6;286.7;294.8;302.9;311.0;319.1;327.2;335.3;343.4;351.5;359.6;367.7;375.8;383.9;392.0;400.1;408.2;416.3;424.4;432.5;440.6;448.7;456.8;464.9;473.0;481.1;92.3;100.4;108.5;116.6;124.7;132.8;140.9;149.0;157.1;165.2;173.3;181.4;189.5;197.6;205.7;213.8;221.9;230.0;238.1;246.2;254.3;262.4;270.5;278.6;286.7;294.8;302.9;311.0;319.1;327.2;335.3;343.4;351.5;359.6;367.7;375.8;383.9;392.0;400.1;408.2;416.3;424.4;432.5;440.6;448.7;456.8;464.9;473.0;481.1;489.2;497.3;505.4;513.5;521.6;529.7;537.8;545.9;554.0;562.1;570.2;578.3;92.3;100.4;108.5;116.6;124.7;132.8;140.9;149.0;157.1;165.2;173.3;181.4;189.5;197.6;205.7;213.8;221.9;230.0;238.1;246.2;254.3;262.4;270.5;278.6;286.7;116.6;124.7;132.8;140.9;149.0;157.1;165.2;173.3;181.4;189.5;197.6;205.7;213.8;221.9;230.0;238.1;246.2;254.3;262.4;270.5;278.6;286.7;294.8;302.9;311.0;319.1;327.2;335.3;343.4;351.5;359.6;367.7;375.8;383.9;392.0;400.1;408.2;416.3;424.4;432.5;440.6;448.7;456.8;464.9;473.0;481.1;489.2;497.3;505.4;513.5;521.6;529.7;537.8;545.9;554.0;562.1;570.2;578.3;586.4;594.5;602.6;610.7;618.8;626.9;635.0;643.1;651.2;659.3;667.4;675.5;683.6;691.7;699.8;707.9;716.0;724.1;732.2;740.3;748.4;756.5;764.6;772.7;780.8;788.9;797.0;805.1;813.2;821.3;829.4;837.5;845.6;853.7;861.8;869.9" />
+    <animate attributeName="y" dur="24.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.00000;0.03333;0.14167;0.27500;0.40833;0.55833;0.62500" values="179;179;203;227;251;275;299" />
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
 </svg>
