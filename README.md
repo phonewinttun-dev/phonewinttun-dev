@@ -1,30 +1,68 @@
-# Hi there! 👋
+# Phone Win Tun
 
-I’m an undergraduate Computer Science student at the University of Computer Studies, Yangon, with a passion for programming and problem solving. I enjoy designing and building reliable, scalable backend systems, and I’m particularly interested in software engineering, backend architecture, and server-side development. Currently, I’m focusing on the **.NET ecosystem** while continuously strengthening my knowledge of database design, query optimization, and modern backend practices.
+[LinkedIn](https://www.linkedin.com/in/phone-wint-tun-dev) · [Email](mailto:phonewinttun173@gmail.com) · [GitHub](https://github.com/phonewinttun-dev)
 
-## 💡 About Me
+I am an undergraduate Software Engineering student at the University of Computer Studies, Yangon (UCSY). I build backend systems, web APIs, and practical software focused on solving real-world civic, operational, and community problems in Myanmar.
 
-* **Role:** Undergraduate Computer Science Student
-* **University:** University of Computer Studies, Yangon
-* **Interests:** Software engineering, backend architecture, backend development, and relational database design
-* **Approach:** Continuously learning and growing through hands-on, real-world projects
+I follow feature-driven architecture and pragmatic minimalism: cohesive feature folders, explicit data flows, surgical refactoring, and zero unnecessary abstractions. If a problem can be solved with standard libraries or simpler design, I keep it simple.
 
-## 🛠️ Technical Skills
+---
 
-* **Languages & Frameworks:** C#, .NET
-* **Databases:** MySQL, PostgreSQL
-* **Tools & Technologies:** Git, Postman, Docker
+### Featured Work
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/phone-wint-tun-dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phonewinttun173@gmail.com) 
+**Smart Clinic Management System (SCMS)**  
+Clinic management platform engineered with feature-based architecture to streamline clinical workflows and patient care. Features real-time queue orchestration with SignalR, electronic medical records (EMR), automated FIFO pharmaceutical inventory tracking, and role-tailored workspaces.  
+* Stack: C#, ASP.NET Core, SignalR, Feature-Driven Architecture, PostgreSQL / MySQL  
+* Repository: [SCMS](https://github.com/phonewinttun-dev/SCMS)
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+**YBS LanPya**  
+Public transit route navigation platform designed for commuters in Yangon. Built to replace fragmented bus route data with structured, searchable route mapping and stop identification.  
+* Stack: C#, ASP.NET Core, Minimal APIs, MySQL  
+* Repository: [YBS-Project](https://github.com/Isnotavailble/YBS-Project)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=phonewinttun-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=phonewinttun-dev&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=phonewinttun-dev&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**YPS Store Finder**  
+Store locator service enabling Yangon bus commuters to quickly locate verified top-up locations and card service points for Yangon Payment Services (YPS).  
+* Stack: ASP.NET Core, Leaflet / Geolocation, MySQL  
+* Repository: [YPS-Store-Finder](https://github.com/phonewinttun-dev/YPS-Store-Finder)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Chronon Attendance Tracker**  
+Enterprise attendance and time-tracking backend system engineered with domain services, automated check-in reporting, and role-based authorization.  
+* Stack: C#, ASP.NET Core, EF Core, SQL Server, Feature-Driven Design  
+* Repository: [Chronon-Attendance-Tracker](https://github.com/phonewinttun-dev/Chronon-Attendance-Tracker)
+
+**Hsum Chaint**  
+A specialized donation and monastic offering management system designed for local religious communities and donors, ensuring transparent contribution records and distribution schedules.  
+* Stack: ASP.NET Core, Result Pattern, Dapper / EF Core, PostgreSQL
+
+**YaungMel POS**  
+A lightweight point-of-sale solution engineered for small-to-medium retail shops in Myanmar, focusing on rapid checkout flow, inventory tracking, and straightforward data models without bloated enterprise dependencies.  
+* Stack: C#, .NET, SQLite / MySQL, Desktop & Mobile UI  
+* Repository: [YaungMel_POS](https://github.com/phonewinttun-dev/YaungMel_POS)
+
+---
+
+### Engineering Principles & Focus
+
+* Architecture: Feature-Driven Architecture (Feature-based organization), Vertical Slices, Result<T> pattern, RESTful API design.
+* Data Access & Performance: EF Core and Dapper hybrid approach (Dapper for fast, predictable reads; EF Core for domain consistency), query tuning, and mobile-optimized pagination.
+* Security & Reliability: Proactive vulnerability analysis (OWASP Web Security, IDOR defense), strict input validation, concurrency safety testing, and deterministic testability.
+* Pragmatic Codebase Health: Zero speculative layers, surgical refactoring, and eliminating third-party dependency bloat where native code suffices.
+
+---
+
+### Technical Tooling
+
+* Languages: C#, Kotlin, Dart, SQL, TypeScript
+* Frameworks & Runtimes: .NET 8/9/10, ASP.NET Core, EF Core, Dapper, SignalR, Jetpack Compose, Flutter
+* Databases: PostgreSQL, MySQL, Microsoft SQL Server, Supabase
+* Infrastructure & Tools: Docker, Git, Postman, Linux, Render, Cloudflare
+
+---
+
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg" alt="GitHub contribution snake animation">
+</picture>
