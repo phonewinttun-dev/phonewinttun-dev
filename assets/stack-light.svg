@@ -6,13 +6,13 @@
   <circle cx="66" cy="21" r="6" fill="#27c93f"/>
   <text x="500" y="26" text-anchor="middle" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12.5" fill="#57609a">~/phonewinttun/TechStack.config</text>
   <text x="26" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">Backend &amp; APIs</text>
-<text x="175" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">C# • .NET 8/9/10 • ASP.NET Core • Minimal APIs • EF Core • Dapper • SignalR</text>
-<text x="26" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">Architecture</text>
-<text x="175" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">Feature-Driven Architecture • Vertical Slices • Result&lt;T&gt; Pattern • RESTful APIs</text>
+<text x="180" y="78" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">C# • .NET 8/10 • ASP.NET Core • Java / Spring Boot • SignalR • EF Core</text>
+<text x="26" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">Frontend &amp; Mobile</text>
+<text x="180" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">React • Next.js • Blazor WebAssembly • Flutter • Dart • TypeScript</text>
 <text x="26" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">Databases</text>
-<text x="175" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">PostgreSQL • MySQL • Microsoft SQL Server • Supabase</text>
-<text x="26" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">Multi-platform</text>
-<text x="175" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">Kotlin (Jetpack Compose) • Flutter • Avalonia UI</text>
+<text x="180" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">PostgreSQL • MySQL • SQLite • Microsoft SQL Server • Supabase</text>
+<text x="26" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">Architecture</text>
+<text x="180" y="186" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">Feature-Driven Architecture • Vertical Slices • Result&lt;T&gt; Pattern • RESTful APIs</text>
 <text x="26" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#0969da">DevOps &amp; Tooling</text>
-<text x="175" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">Docker • Git • Postman • Linux • Render • Cloudflare</text>
+<text x="180" y="222" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#1f2328">Docker • Git • Postman • Linux • Render • Cloudflare</text>
 </svg>

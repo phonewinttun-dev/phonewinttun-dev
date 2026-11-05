@@ -2,16 +2,16 @@
   <rect x="0.5" y="0.5" width="489" height="235" rx="14" fill="#0d1117" stroke="#30363d"/>
   <text x="24" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#f0f6fc">YaungMel POS</text>
   <text x="24" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b949e">github.com/phonewinttun-dev/YaungMel_POS</text>
-  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">Lightweight Point-of-Sale solution engineered for</text>
-<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">retail businesses in Myanmar. Features fast checkout flow,</text>
-<text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">inventory tracking, and straightforward data models</text>
-<text x="24" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">without bloated enterprise dependencies.</text>
-  <rect x="24" y="196" width="31.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="39.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">C#</text>
-<rect x="63.0" y="196" width="46.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="86.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">.NET</text>
-<rect x="117.0" y="196" width="121.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="177.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">SQLite / MySQL</text>
-<rect x="246.0" y="196" width="61.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
-<text x="276.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">Retail</text>
+  <text x="24" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">Point-of-Sale solution engineered for retail shops</text>
+<text x="24" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">in Myanmar. Features Next.js frontend with ASP.NET Core</text>
+<text x="24" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">backend, fast checkout workflow, inventory tracking, and</text>
+<text x="24" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#8b949e">zero bloated enterprise overhead.</text>
+  <rect x="24" y="196" width="68.5" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="58.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">Next.js</text>
+<rect x="100.5" y="196" width="106.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="153.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">ASP.NET Core</text>
+<rect x="214.5" y="196" width="91.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="260.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">PostgreSQL</text>
+<rect x="313.5" y="196" width="91.0" height="24" rx="6" fill="#161b22" stroke="#30363d"/>
+<text x="359.0" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#58a6ff">TypeScript</text>
 </svg>
