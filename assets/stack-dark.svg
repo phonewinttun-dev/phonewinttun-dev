@@ -2,39 +2,39 @@
   <defs>
     <style>
       .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 13.5px; }
-      .dim { fill: #808080; }
-      .kw { fill: #cc7832; font-weight: 600; }
-      .ty { fill: #6897bb; font-weight: 600; }
-      .prop { fill: #9876aa; }
-      .str { fill: #6a8759; }
-      .punc { fill: #a9b7c6; }
-      .ln { fill: #606366; text-anchor: end; font-size: 12px; }
+      .dim { fill: #768390; }
+      .kw { fill: #f47067; font-weight: 600; }
+      .ty { fill: #6cb6ff; font-weight: 600; }
+      .prop { fill: #dcbdfb; }
+      .str { fill: #8ddb8c; }
+      .punc { fill: #adbac7; }
+      .ln { fill: #545d68; text-anchor: end; font-size: 12px; }
     </style>
   </defs>
 
   <!-- Background -->
-  <rect x="0.5" y="0.5" width="999" height="384" rx="14" fill="#2b2b2b" stroke="#3c3f41"/>
+  <rect x="0.5" y="0.5" width="999" height="384" rx="14" fill="#22272e" stroke="#444c56"/>
 
   <!-- IDE Tab Bar -->
-  <path d="M0.5 40V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V40Z" fill="#313335" stroke="#3c3f41"/>
-  <line x1="0" y1="40" x2="1000" y2="40" stroke="#3c3f41" stroke-width="1"/>
+  <path d="M0.5 40V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V40Z" fill="#2d333b" stroke="#444c56"/>
+  <line x1="0" y1="40" x2="1000" y2="40" stroke="#444c56" stroke-width="1"/>
 
   <!-- Active Tab: TechStack.cs -->
-  <path d="M16 8 H200 V40 H16 Z" fill="#2b2b2b"/>
-  <line x1="16" y1="8" x2="16" y2="40" stroke="#3c3f41"/>
-  <line x1="200" y1="8" x2="200" y2="40" stroke="#3c3f41"/>
-  <line x1="16" y1="39.5" x2="200" y2="39.5" stroke="#3592c4" stroke-width="2.5"/>
+  <path d="M16 8 H200 V40 H16 Z" fill="#22272e"/>
+  <line x1="16" y1="8" x2="16" y2="40" stroke="#444c56"/>
+  <line x1="200" y1="8" x2="200" y2="40" stroke="#444c56"/>
+  <line x1="16" y1="39.5" x2="200" y2="39.5" stroke="#539bf5" stroke-width="2.5"/>
 
   <!-- C# Logo in Tab -->
-  <rect x="28" y="16" width="16" height="16" rx="3.5" fill="#cc7832"/>
-  <text x="36" y="28" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="900" fill="#2b2b2b">C#</text>
+  <rect x="28" y="16" width="16" height="16" rx="3.5" fill="#f47067"/>
+  <text x="36" y="28" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="900" fill="#22272e">C#</text>
   
   <!-- Tab Title & Close Button -->
-  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#dfdfdf">TechStack.cs</text>
-  <text x="185" y="26" font-family="sans-serif" font-size="13" fill="#808080">×</text>
+  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#cdd9e5">TechStack.cs</text>
+  <text x="185" y="26" font-family="sans-serif" font-size="13" fill="#768390">×</text>
 
   <!-- Right Side IDE Controls (─ □ ✕) -->
-  <g transform="translate(920, 16)" stroke="#808080" stroke-width="1.2" fill="none">
+  <g transform="translate(920, 16)" stroke="#768390" stroke-width="1.2" fill="none">
     <line x1="0" y1="7" x2="10" y2="7"/>
     <rect x="22" y="1" width="9" height="9" rx="1"/>
     <path d="M44 2 L52 10 M52 2 L44 10"/>
@@ -42,7 +42,7 @@
 
   <!-- Breadcrumb -->
   <text x="28" y="60" class="mono dim" font-size="11.5">src &gt; Architecture &gt; TechStack.cs</text>
-  <line x1="28" y1="72" x2="972" y2="72" stroke="#3c3f41" stroke-width="0.75" stroke-dasharray="4,4"/>
+  <line x1="28" y1="72" x2="972" y2="72" stroke="#444c56" stroke-width="0.75" stroke-dasharray="4,4"/>
 
   <!-- Line Numbers & Code Area -->
   <g transform="translate(28, 98)" class="mono">
@@ -61,7 +61,7 @@
       <text x="20" y="264">12</text>
     </g>
 
-    <line x1="32" y1="-14" x2="32" y2="276" stroke="#3c3f41" stroke-width="1"/>
+    <line x1="32" y1="-14" x2="32" y2="276" stroke="#444c56" stroke-width="1"/>
 
     <g transform="translate(40, 0)">
       <text x="0" y="0"><tspan class="kw">namespace</tspan> <tspan class="punc">UCSY.Architecture;</tspan></text>

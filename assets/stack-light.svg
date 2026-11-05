@@ -2,13 +2,13 @@
   <defs>
     <style>
       .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; font-size: 13.5px; }
-      .dim { fill: #777777; }
-      .kw { fill: #000080; font-weight: 600; }
-      .ty { fill: #001080; font-weight: 600; }
-      .prop { fill: #660e7a; }
-      .str { fill: #008000; }
-      .punc { fill: #000000; }
-      .ln { fill: #888888; text-anchor: end; font-size: 12px; }
+      .dim { fill: #656d76; }
+      .kw { fill: #cf222e; font-weight: 600; }
+      .ty { fill: #0969da; font-weight: 600; }
+      .prop { fill: #8250df; }
+      .str { fill: #1a7f37; }
+      .punc { fill: #1f2328; }
+      .ln { fill: #8c959f; text-anchor: end; font-size: 12px; }
     </style>
   </defs>
 
@@ -16,25 +16,25 @@
   <rect x="0.5" y="0.5" width="999" height="384" rx="14" fill="#ffffff" stroke="#d0d7de"/>
 
   <!-- IDE Tab Bar -->
-  <path d="M0.5 40V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V40Z" fill="#f2f2f2" stroke="#d0d7de"/>
+  <path d="M0.5 40V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V40Z" fill="#f6f8fa" stroke="#d0d7de"/>
   <line x1="0" y1="40" x2="1000" y2="40" stroke="#d0d7de" stroke-width="1"/>
 
   <!-- Active Tab: TechStack.cs -->
   <path d="M16 8 H200 V40 H16 Z" fill="#ffffff"/>
   <line x1="16" y1="8" x2="16" y2="40" stroke="#d0d7de"/>
   <line x1="200" y1="8" x2="200" y2="40" stroke="#d0d7de"/>
-  <line x1="16" y1="39.5" x2="200" y2="39.5" stroke="#3592c4" stroke-width="2.5"/>
+  <line x1="16" y1="39.5" x2="200" y2="39.5" stroke="#0969da" stroke-width="2.5"/>
 
   <!-- C# Logo in Tab -->
-  <rect x="28" y="16" width="16" height="16" rx="3.5" fill="#000080"/>
+  <rect x="28" y="16" width="16" height="16" rx="3.5" fill="#cf222e"/>
   <text x="36" y="28" text-anchor="middle" font-family="sans-serif" font-size="10.5" font-weight="900" fill="#ffffff">C#</text>
   
   <!-- Tab Title & Close Button -->
-  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#222222">TechStack.cs</text>
-  <text x="185" y="26" font-family="sans-serif" font-size="13" fill="#777777">×</text>
+  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#1f2328">TechStack.cs</text>
+  <text x="185" y="26" font-family="sans-serif" font-size="13" fill="#656d76">×</text>
 
   <!-- Right Side IDE Controls (─ □ ✕) -->
-  <g transform="translate(920, 16)" stroke="#777777" stroke-width="1.2" fill="none">
+  <g transform="translate(920, 16)" stroke="#656d76" stroke-width="1.2" fill="none">
     <line x1="0" y1="7" x2="10" y2="7"/>
     <rect x="22" y="1" width="9" height="9" rx="1"/>
     <path d="M44 2 L52 10 M52 2 L44 10"/>
