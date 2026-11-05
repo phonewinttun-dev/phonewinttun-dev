@@ -1,8 +1,11 @@
-# Phone Win Tun
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <img alt="Terminal: whoami prints Phone Win Tun, Software Engineering undergraduate at UCSY" src="assets/terminal-light.svg" width="100%">
+</picture>
 
 [LinkedIn](https://www.linkedin.com/in/phone-wint-tun-dev) · [Email](mailto:phonewinttun173@gmail.com) · [GitHub](https://github.com/phonewinttun-dev)
 
-I am an undergraduate Software Engineering student at the University of Computer Studies, Yangon (UCSY). I build backend systems, web APIs, and practical software focused on solving real-world civic, operational, and community problems in Myanmar.
+I am an undergraduate Software Engineering student at the **University of Computer Studies, Yangon (UCSY)**. I build backend systems, web APIs, and practical software focused on solving real-world civic, operational, and community problems in Myanmar.
 
 I follow feature-driven architecture and pragmatic minimalism: cohesive feature folders, explicit data flows, surgical refactoring, and zero unnecessary abstractions. If a problem can be solved with standard libraries or simpler design, I keep it simple.
 
@@ -10,34 +13,27 @@ I follow feature-driven architecture and pragmatic minimalism: cohesive feature 
 
 ### Featured Work
 
-**Smart Clinic Management System (SCMS)**  
-Clinic management platform engineered with feature-based architecture to streamline clinical workflows and patient care. Features real-time queue orchestration with SignalR, electronic medical records (EMR), automated FIFO pharmaceutical inventory tracking, and role-tailored workspaces.  
-* Stack: C#, ASP.NET Core, SignalR, Feature-Driven Architecture, PostgreSQL / MySQL  
-* Repository: [SCMS](https://github.com/phonewinttun-dev/SCMS)
+<p>
+  <a href="https://github.com/phonewinttun-dev/SCMS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-scms-dark.svg"><img alt="SCMS: Clinic Management System" src="assets/tile-scms-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Isnotavailble/YBS-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-ybs-dark.svg"><img alt="YBS LanPya: Transit Navigation" src="assets/tile-ybs-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/phonewinttun-dev/YPS-Store-Finder"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-yps-dark.svg"><img alt="YPS Store Finder" src="assets/tile-yps-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/phonewinttun-dev/Chronon-Attendance-Tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-chronon-dark.svg"><img alt="Chronon Attendance Tracker" src="assets/tile-chronon-light.svg" width="49%"></picture></a>
+</p>
+<p>
+  <a href="https://github.com/phonewinttun-dev/YaungMel_POS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-yaungmel-dark.svg"><img alt="YaungMel POS" src="assets/tile-yaungmel-light.svg" width="49%"></picture></a>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-hsumchaint-dark.svg"><img alt="Hsum Chaint: Monastic & Donation Management" src="assets/tile-hsumchaint-light.svg" width="49%"></picture>
+</p>
 
-**YBS LanPya**  
-Public transit route navigation platform designed for commuters in Yangon. Built to replace fragmented bus route data with structured, searchable route mapping and stop identification.  
-* Stack: C#, ASP.NET Core, Minimal APIs, MySQL  
-* Repository: [YBS-Project](https://github.com/Isnotavailble/YBS-Project)
+---
 
-**YPS Store Finder**  
-Store locator service enabling Yangon bus commuters to quickly locate verified top-up locations and card service points for Yangon Payment Services (YPS).  
-* Stack: ASP.NET Core, Leaflet / Geolocation, MySQL  
-* Repository: [YPS-Store-Finder](https://github.com/phonewinttun-dev/YPS-Store-Finder)
+### Architecture & Tooling
 
-**Chronon Attendance Tracker**  
-Enterprise attendance and time-tracking backend system engineered with domain services, automated check-in reporting, and role-based authorization.  
-* Stack: C#, ASP.NET Core, EF Core, SQL Server, Feature-Driven Design  
-* Repository: [Chronon-Attendance-Tracker](https://github.com/phonewinttun-dev/Chronon-Attendance-Tracker)
-
-**Hsum Chaint**  
-A specialized donation and monastic offering management system designed for local religious communities and donors, ensuring transparent contribution records and distribution schedules.  
-* Stack: ASP.NET Core, Result Pattern, Dapper / EF Core, PostgreSQL
-
-**YaungMel POS**  
-A lightweight point-of-sale solution engineered for small-to-medium retail shops in Myanmar, focusing on rapid checkout flow, inventory tracking, and straightforward data models without bloated enterprise dependencies.  
-* Stack: C#, .NET, SQLite / MySQL, Desktop & Mobile UI  
-* Repository: [YaungMel_POS](https://github.com/phonewinttun-dev/YaungMel_POS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech Stack and Architectural Tooling" src="assets/stack-light.svg" width="100%">
+</picture>
 
 ---
 
@@ -50,19 +46,10 @@ A lightweight point-of-sale solution engineered for small-to-medium retail shops
 
 ---
 
-### Technical Tooling
-
-* Languages: C#, Kotlin, Dart, SQL, TypeScript
-* Frameworks & Runtimes: .NET 8/9/10, ASP.NET Core, EF Core, Dapper, SignalR, Jetpack Compose, Flutter
-* Databases: PostgreSQL, MySQL, Microsoft SQL Server, Supabase
-* Infrastructure & Tools: Docker, Git, Postman, Linux, Render, Cloudflare
-
----
-
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/sannlynnhtun-coding/sannlynnhtun-coding/output/github-snake.svg" alt="GitHub contribution snake animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phonewinttun-dev/phonewinttun-dev/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phonewinttun-dev/phonewinttun-dev/output/github-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/phonewinttun-dev/phonewinttun-dev/output/github-snake.svg" alt="GitHub contribution snake animation">
 </picture>

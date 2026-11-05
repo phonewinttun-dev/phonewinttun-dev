@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Terminal Hero Banner">
+  <style>
+    .mono { font-family: 'SF Mono', 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Menlo, Consolas, monospace; }
+    .title { font-size: 13px; font-weight: 500; fill: #57609a; }
+    .cmd { font-size: 14px; font-weight: 600; fill: #1f2328; }
+    .line-title { font-size: 15px; font-weight: 700; fill: #1f2328; }
+    .line-desc { font-size: 13.5px; fill: #656d76; }
+    .highlight { fill: #8250df; font-weight: 600; }
+    .amber { fill: #bc4c00; font-weight: 600; }
+  </style>
+  <rect x="0.5" y="0.5" width="999" height="249" rx="14" fill="#ffffff" stroke="#d0d7de"/>
+  <path d="M0.5 42V14.5A14 14 0 0 1 14.5 0.5H985.5A14 14 0 0 1 999.5 14.5V42Z" fill="#f6f8fa" stroke="#d0d7de"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="46" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="21" r="6" fill="#27c93f"/>
+  <text x="500" y="26" text-anchor="middle" class="mono title">phonewinttun@dev: ~ (zsh)</text>
+  
+  <g class="mono" transform="translate(30, 74)">
+    <text x="0" y="0" font-size="14.5">
+      <tspan fill="#1a7f37" font-weight="700">phonewinttun</tspan><tspan fill="#57609a">@</tspan><tspan fill="#0969da">ucs-yangon</tspan><tspan fill="#57609a">:~$ </tspan><tspan class="cmd">whoami --verbose</tspan>
+    </text>
+    
+    <text x="0" y="32" class="line-title">Phone Win Tun <tspan class="line-desc">· Software Engineering Undergraduate @ UCSY</tspan></text>
+    
+    <text x="0" y="62" class="line-desc">
+      <tspan fill="#57609a">↳ Focus:</tspan> Backend architectures, web APIs, database design, and real-world civic systems
+    </text>
+    
+    <text x="0" y="90" class="line-desc">
+      <tspan fill="#57609a">↳ Principles:</tspan> <tspan class="highlight">Feature-Driven Architecture</tspan> · <tspan class="amber">Pragmatic Minimalism</tspan> · Zero speculative complexity
+    </text>
+    
+    <text x="0" y="118" class="line-desc">
+      <tspan fill="#57609a">↳ Status:</tspan> Engineering solutions for local transit, healthcare clinics, and retail in Myanmar
+    </text>
+  </g>
+</svg>
