@@ -23,7 +23,7 @@ I follow feature-driven architecture and pragmatic minimalism: cohesive feature 
 </p>
 <p>
   <a href="https://github.com/phonewinttun-dev/YaungMel_POS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-yaungmel-dark.svg"><img alt="YaungMel POS" src="assets/tile-yaungmel-light.svg" width="49%"></picture></a>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-hsumchaint-dark.svg"><img alt="Hsum Chaint: Monastic & Donation Management" src="assets/tile-hsumchaint-light.svg" width="49%"></picture>
+  <a href="https://github.com/one-project-one-month/opom-hsum-chaint-csharp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-hsumchaint-dark.svg"><img alt="Hsum Chaint: Monastic & Donation Management" src="assets/tile-hsumchaint-light.svg" width="49%"></picture></a>
 </p>
 
 ---

@@ -7,7 +7,7 @@
   <!-- Card Rectangle with elevation shadow -->
   <rect x="8" y="6" width="484" height="232" rx="14" fill="#ffffff" stroke="#d0d7de" filter="url(#card-shadow-light)"/>
   <text x="32" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1f2328">Hsum Chaint</text>
-  <text x="32" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#656d76">Monastic &amp; Donation Management</text>
+  <text x="32" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#656d76">github.com/one-project-one-month/opom-hsum-chaint-csharp</text>
   <text x="32" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">Specialized donation and monastic offering management</text>
 <text x="32" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">platform. Combines an ASP.NET Core backend with a Flutter</text>
 <text x="32" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">mobile client for transparent contribution records and</text>
