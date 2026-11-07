@@ -1,17 +1,19 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
-  <img alt="Profile.cs - Phone Win Tun, Software Engineering undergraduate at UCSY" src="assets/terminal-light.svg" width="100%">
+  <img alt="Profile.cs - Phone Wint Tun, Software Engineering undergraduate at UCSY" src="assets/terminal-light.svg" width="100%">
 </picture>
 
-[LinkedIn](https://www.linkedin.com/in/phone-wint-tun-dev) · [Email](mailto:phonewinttun173@gmail.com) · [GitHub](https://github.com/phonewinttun-dev)
+[LinkedIn](https://www.linkedin.com/in/phone-wint-tun-dev) · [Email](mailto:phonewinttun173@gmail.com) · [GitHub](https://github.com/phonewinttun-dev) · [Telegram](https://t.me/pwt_dev)
 
 I am an undergraduate Software Engineering student at the **University of Computer Studies, Yangon (UCSY)**. I build backend systems, web APIs, and practical software focused on engineering reliable, community-first solutions to tackle real-world challenges in Myanmar.
+
+Member of **[Burma Project Ideas](https://github.com/burma-project-ideas)** and active contributor at **[One Project One Month](https://github.com/one-project-one-month)**.
 
 I follow feature-driven architecture and pragmatic minimalism: cohesive feature folders, explicit data flows, surgical refactoring, and zero unnecessary abstractions. If a problem can be solved with standard libraries or simpler design, I keep it simple.
 
 ---
 
-### Featured Work
+### Featured Projects
 
 <p>
   <a href="https://github.com/phonewinttun-dev/SCMS"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tile-scms-dark.svg"><img alt="SCMS: Clinic Management System" src="assets/tile-scms-light.svg" width="49%"></picture></a>

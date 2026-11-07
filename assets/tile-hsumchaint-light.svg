@@ -4,20 +4,52 @@
       <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#000000" flood-opacity="0.08"/>
     </filter>
   </defs>
-  <!-- Card Rectangle with elevation shadow -->
+
+  <!-- Card Surface -->
   <rect x="8" y="6" width="484" height="232" rx="14" fill="#ffffff" stroke="#d0d7de" filter="url(#card-shadow-light)"/>
-  <text x="32" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="21" font-weight="700" fill="#1f2328">Hsum Chaint</text>
-  <text x="32" y="68" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#656d76">github.com/one-project-one-month/opom-hsum-chaint-csharp</text>
-  <text x="32" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">Specialized donation and monastic offering management</text>
-<text x="32" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">platform. Combines an ASP.NET Core backend with a Flutter</text>
-<text x="32" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">mobile client for transparent contribution records and</text>
-<text x="32" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" fill="#656d76">scheduled food distribution tracking.</text>
-  <rect x="32" y="196" width="31.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="47.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">C#</text>
-<rect x="71.0" y="196" width="68.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="105.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">Flutter</text>
-<rect x="147.5" y="196" width="53.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="174.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">MySQL</text>
-<rect x="209.0" y="196" width="68.5" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="243.25" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">.NET 10</text>
+
+  <!-- Tab Bar Header -->
+  <path d="M8 20A14 14 0 0 1 22 6H478A14 14 0 0 1 492 20V40H8Z" fill="#f6f8fa"/>
+  <line x1="8" y1="40" x2="492" y2="40" stroke="#d0d7de" stroke-width="1"/>
+
+  <!-- Active Tab -->
+  <path d="M20 10 H170 V40 H20 Z" fill="#ffffff"/>
+  <line x1="20" y1="10" x2="20" y2="40" stroke="#d0d7de"/>
+  <line x1="170" y1="10" x2="170" y2="40" stroke="#d0d7de"/>
+  <line x1="20" y1="39.5" x2="170" y2="39.5" stroke="#007acc" stroke-width="2.5"/>
+
+  <!-- Tab Icon -->
+  <rect x="30" y="16" width="16" height="16" rx="3.5" fill="#7160e8"/>
+  <text x="38" y="28" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="900" fill="#ffffff">C#</text>
+
+  <!-- Tab Title & Close Button -->
+  <text x="52" y="27" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="600" fill="#1f2328">Hsum Chaint</text>
+  <text x="158" y="26" font-family="sans-serif" font-size="13" fill="#858585">×</text>
+
+  <!-- Window Controls (─ □ ✕) -->
+  <g transform="translate(432, 18)" stroke="#858585" stroke-width="1.2" fill="none">
+    <line x1="0" y1="7" x2="9" y2="7"/>
+    <rect x="18" y="2" width="8" height="8" rx="1"/>
+    <path d="M36 2 L43 9 M43 2 L36 9"/>
+  </g>
+
+  <!-- Card Body -->
+  <text x="32" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="700" fill="#0550ae">Hsum Chaint</text>
+  <text x="32" y="90" font-family="'SF Mono', 'JetBrains Mono', Consolas, monospace" font-size="11.5" fill="#656d76">github.com/one-project-one-month/opom-hsum-chaint-csharp</text>
+
+  <!-- Description -->
+  <text x="32" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#57606a">Specialized donation and monastic offering management</text>
+  <text x="32" y="134" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#57606a">platform. Combines an ASP.NET Core backend with a Flutter</text>
+  <text x="32" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#57606a">mobile client for transparent contribution records and</text>
+  <text x="32" y="174" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#57606a">scheduled food distribution tracking.</text>
+
+  <!-- Tech Badges -->
+  <rect x="32.0" y="196" width="33.6" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="48.8" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">C#</text>
+  <rect x="73.6" y="196" width="72.6" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="109.9" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">Flutter</text>
+  <rect x="154.2" y="196" width="57.0" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="182.7" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">MySQL</text>
+  <rect x="219.2" y="196" width="72.6" height="24" rx="6" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="255.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="600" fill="#0969da">.NET 10</text>
 </svg>
